@@ -1,4 +1,4 @@
-# FB-Spider ![](/data/FbSpdr.png?raw=true)
+# FB-Spider ![](/data/FBSpdrS.png?raw=true)
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
