@@ -3,6 +3,8 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
  [![Join the chat at https://join.slack.com/t/kwoc2017-parth/shared_invite/enQtMjc1OTU3MDUwNzc0LTNkNzQzN2U5NzI0ZTNkM2I5MGM5MDIyYTYxMzFhNWYzNWYwMDIzMjNmYjM2MTA1NDc1NWU2Yjc0ZTYxNGZmNTA](https://img.shields.io/badge/Slack-Join%20chat-blue.svg)](https://join.slack.com/t/kwoc2017-parth/shared_invite/enQtMjc1OTU3MDUwNzc0LTNkNzQzN2U5NzI0ZTNkM2I5MGM5MDIyYTYxMzFhNWYzNWYwMDIzMjNmYjM2MTA1NDc1NWU2Yjc0ZTYxNGZmNTA)
+ 
+ [![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 
 A program which accepts the id of a Facebook page and transforms into a table of the latest 5 posts and the respective latest 5 comments per post. The table will be in .html format 
 
@@ -161,3 +163,5 @@ You can contribute to the repo via this really-simple steps:<br>
 * Clone your repo.<br>
 * Tackle down the issues or add your own innovations.<br>
 * Pull Request<br>
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
